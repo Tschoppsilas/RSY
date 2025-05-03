@@ -1,0 +1,51 @@
+movieId,title,genres
+1,The Matrix,Action|Sci-Fi
+2,Titanic,Romance|Drama
+3,Die Hard,Action|Thriller
+4,The Notebook,Romance|Drama
+5,Interstellar,Sci-Fi|Drama
+6,The Godfather,Crime|Drama
+7,Toy Story,Animation|Comedy
+8,Avengers,Action|Sci-Fi
+9,Finding Nemo,Animation|Adventure
+10,Inception,Sci-Fi|Thriller
+11,Gladiator,Action|Drama
+12,Frozen,Animation|Family
+13,Parasite,Thriller|Drama
+14,Joker,Drama|Crime
+15,The Lion King,Animation|Adventure
+16,The Shawshank Redemption,Drama|Crime
+17,Up,Animation|Adventure
+18,Black Panther,Action|Sci-Fi
+19,Her,Romance|Sci-Fi
+20,La La Land,Romance|Music
+21,Star Wars,Action|Sci-Fi
+22,The Dark Knight,Action|Crime
+23,Shrek,Animation|Comedy
+24,Inside Out,Animation|Family
+25,Whiplash,Drama|Music
+26,The Prestige,Drama|Mystery
+27,Alien,Sci-Fi|Horror
+28,The Big Short,Drama|Biography
+29,The Social Network,Drama|Biography
+30,Arrival,Sci-Fi|Drama
+31,WALL-E,Animation|Sci-Fi
+32,Monsters Inc.,Animation|Comedy
+33,Logan,Action|Drama
+34,Deadpool,Action|Comedy
+35,The Revenant,Adventure|Drama
+36,The Irishman,Crime|Drama
+37,Coco,Animation|Family
+38,Moana,Animation|Adventure
+39,Blade Runner 2049,Sci-Fi|Thriller
+40,The Grand Budapest Hotel,Comedy|Drama
+41,1917,War|Drama
+42,Knives Out,Crime|Mystery
+43,Brokeback Mountain,Romance|Drama
+44,Mad Max: Fury Road,Action|Adventure
+45,How to Train Your Dragon,Animation|Adventure
+46,Soul,Animation|Music
+47,No Country for Old Men,Crime|Thriller
+48,Marriage Story,Drama|Romance
+49,The Lobster,Drama|Sci-Fi
+50,The Trial of the Chicago 7,Drama|History
